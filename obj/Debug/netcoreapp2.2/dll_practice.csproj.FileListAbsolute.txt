@@ -1,0 +1,11 @@
+/Users/Gibby540/Desktop/csharp_assignments_review/dll_practice/bin/Debug/netcoreapp2.2/dll_practice.deps.json
+/Users/Gibby540/Desktop/csharp_assignments_review/dll_practice/bin/Debug/netcoreapp2.2/dll_practice.runtimeconfig.json
+/Users/Gibby540/Desktop/csharp_assignments_review/dll_practice/bin/Debug/netcoreapp2.2/dll_practice.runtimeconfig.dev.json
+/Users/Gibby540/Desktop/csharp_assignments_review/dll_practice/bin/Debug/netcoreapp2.2/dll_practice.dll
+/Users/Gibby540/Desktop/csharp_assignments_review/dll_practice/bin/Debug/netcoreapp2.2/dll_practice.pdb
+/Users/Gibby540/Desktop/csharp_assignments_review/dll_practice/obj/Debug/netcoreapp2.2/dll_practice.csprojAssemblyReference.cache
+/Users/Gibby540/Desktop/csharp_assignments_review/dll_practice/obj/Debug/netcoreapp2.2/dll_practice.csproj.CoreCompileInputs.cache
+/Users/Gibby540/Desktop/csharp_assignments_review/dll_practice/obj/Debug/netcoreapp2.2/dll_practice.AssemblyInfoInputs.cache
+/Users/Gibby540/Desktop/csharp_assignments_review/dll_practice/obj/Debug/netcoreapp2.2/dll_practice.AssemblyInfo.cs
+/Users/Gibby540/Desktop/csharp_assignments_review/dll_practice/obj/Debug/netcoreapp2.2/dll_practice.dll
+/Users/Gibby540/Desktop/csharp_assignments_review/dll_practice/obj/Debug/netcoreapp2.2/dll_practice.pdb
